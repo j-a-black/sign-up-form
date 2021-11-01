@@ -2,7 +2,6 @@
 
 ## About The Project
 
-<hr/>
 <br/>
 
 ![Sign Up Form Screenshot](/img/project.png?raw=true)
